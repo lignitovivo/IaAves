@@ -57,4 +57,4 @@ history = model.fit(
 )
 
 # Guardar el modelo
-model.save("modelo_espectrogramas_cnn.keras")
+model.save("modelo_espectrogramas_cnn1.keras")
